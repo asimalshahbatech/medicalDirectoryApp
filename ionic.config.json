@@ -1,0 +1,7 @@
+{
+  "name": "medicalDirectory",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
